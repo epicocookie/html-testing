@@ -1,2 +1,2 @@
-# js-testing
+# html-testing
 hehe learning process
